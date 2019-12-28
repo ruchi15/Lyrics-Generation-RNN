@@ -1,5 +1,5 @@
-# Lyrics-Generation-RNN
-This repository contains code for lyrics generation for artists using RNN algorithm.
+r# Lyrics-Generation-RNN
+This repository contains code for lyrics generation for artists using Recurrent Neural Networks algorithm of machine learning.
 
 1) To run the code, these are the steps need to be followed - 
 
