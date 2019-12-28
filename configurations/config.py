@@ -3,7 +3,7 @@ class Config:
     def __init__(self):
 
         print("----- Initializing configuration")
-        self.base_dataset_path = 'https://personal.utdallas.edu/~arp180012/'
+        self.base_dataset_path = 'data/'
         self.dataset_csv_file = 'songdata.csv'
         self.iterations = 10000000
         self.hidden_layer_size = 80
